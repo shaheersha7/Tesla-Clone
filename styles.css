@@ -1,0 +1,310 @@
+body{
+    margin: 0;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.container img{
+    display: block;
+}
+.container video{
+    display: block;
+}
+.container{
+    position: relative;
+    text-align: center;
+    color: white;
+}
+
+.heading{
+    position: absolute;
+    font-size: 25px;
+    line-height: 56px;
+    top:15%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.navtxt{
+    margin-left: 530px;
+    padding-top: 4px;
+    font-size: small;
+}
+.nav{
+    height: 38px; 
+}
+.link{
+    text-decoration: underline ;
+    text-decoration-thickness: 1px;
+    text-underline-offset: 5px; 
+}
+.logo{
+    width: auto;
+    height: 28px;
+    position: absolute;
+    margin-top: 15px;
+    margin-left: 34px;
+    width: auto; height: px; object-fit: cover;
+}
+.htxt1{
+    position: absolute;
+}
+.hul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    margin-left: 576px;
+    margin-top: 6px;
+    font-size: 15px;
+}
+.hli{
+    float: left;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+
+}
+.button1{
+    position: absolute;
+}
+.btn11{
+    width: 250px;
+    height: 35px;
+    margin-left: 20px;
+    background-color: white;
+    border: none;
+    border-radius: 4px;
+    margin-top: 210px;
+    margin-left: 577px;
+}
+.btn12{
+    width: 250px;
+    height: 35px;
+    margin-left: 20px;
+    background-color: white;
+    border: none;
+    border-radius: 4px;
+    margin-top: 210px;
+}
+.logo3{
+    position: absolute;
+    width: 100%;
+}
+.logo3img1{
+    float: inline-end;
+    margin-right: 34px;
+    width: 20px;
+    height: 20px;
+    margin-top: 15px;
+}
+.logo3img{
+    float: inline-end;
+    margin-right: 15px;
+    width: 20px;
+    height: 20px;
+    margin-top: 15px;
+}
+.img2txt2{
+    text-decoration: underline;
+    text-decoration-thickness: 1px;
+    text-underline-offset: 10px; 
+    position: absolute;
+    font-size: 25px;
+    line-height: 56px;
+    margin-left: 722px;
+    margin-top: 150px;
+}
+.img2txt3{
+    position: absolute;
+    line-height: 56px;
+    margin-left: 735px;
+    margin-top: 210px;
+}
+.heading2{
+    position: absolute;
+    font-size: 25px;
+    line-height: 56px;
+    top:15%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.button2{
+    position: absolute;
+}
+.btn21{
+    width: 250px;
+    height: 35px;
+    margin-left: 20px;
+    background-color: #3e6ae1;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    margin-top: 920px;
+    margin-left: 577px;
+}
+.btn22{
+    width: 250px;
+    height: 35px;
+    margin-left: 20px;
+    background-color: white;
+    border: none;
+    border-radius: 4px;
+    margin-top: 210px;
+}
+.img4txt1{
+    position: absolute;
+    font-size: 30px;
+    line-height: 56px;
+    margin-left: 725px;
+    margin-top: 140px;
+}
+.img4txt2{
+    text-decoration: underline;
+    text-decoration-thickness: 1px;
+    text-underline-offset: 5px; 
+    position: absolute;
+    font-size: 15px;
+    line-height: 56px;
+    margin-left: 717px;
+    margin-top: 200px;
+}
+.img4txt3{
+    text-decoration: underline;
+    text-decoration-thickness: 1px;
+    text-underline-offset: 5px; 
+    position: absolute;
+    font-size: 15px;
+    line-height: 56px;
+    margin-left: 730px;
+    margin-top: 225px;
+}
+.heading4{
+    position: absolute;
+    font-size: 25px;
+    line-height: 56px;
+    top:15%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.sup{
+    font-size: 10px;
+}
+.img6cyb{
+    position: absolute;
+    width: auto;
+}
+.imgcyb{
+    width: auto;
+    height: 140px;
+    margin-top: 120px;
+    margin-left: 670px;
+}
+.img6txt1{
+    position: absolute;
+    font-size: 15px;
+    line-height: 56px;
+    margin-left: 730px;
+    margin-top: 225px;
+}
+.btn61{
+    width: 250px;
+    height: 40px;
+    margin-left: 20px;
+    background-color: #111;
+    color: #8e8e8e;
+    border: none;
+    margin-top: 920px;
+    margin-left: 577px;
+    border-top: 3px solid #8e8e8e;
+}
+.btn62{
+    width: 250px;
+    height: 40px;
+    margin-left: 20px;
+    background-color: #111;
+    color: #8e8e8e;
+    border: none;
+    margin-top: 210px;
+}
+.img7txt1{
+    text-decoration: underline;
+    text-decoration-thickness: 1px;
+    text-underline-offset: 5px; 
+    position: absolute;
+    font-size: 30px;
+    line-height: 56px;
+    margin-left: 590px;
+    margin-top: 150px;
+}
+.img8txt1{
+    position: absolute;
+    font-size: 30px;
+    line-height: 56px;
+    margin-left: 550px;
+    margin-top: 140px;
+}
+.btn101{
+   
+    width: 250px;
+    height: 35px;
+    margin-left: 20px;
+    background-color: #3e6ae1;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    margin-top: 920px;
+    margin-left: 725px;
+    
+}
+.headvdo{
+    position: absolute;
+    font-size: 18px;
+    line-height: 56px;
+    top:400px;
+    left: 180px;
+    transform: translate(-50%, -50%);
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.btnvdo{
+    width: 250px;
+    height: 35px;
+    margin-left: 20px;
+    background-color:white;
+    color: black;
+    border: none;
+    border-radius: 4px;
+    margin-top: 450px;
+    margin-left: 60px;
+}
+.footer{
+    align-content: center;
+    line-height: 18px;
+    text-align: center;
+    font-size: 12px;
+    padding-top: 5px;
+}
+.ful{
+    list-style-type: none;
+    margin-left: 450px;
+    margin-top: 10px;
+    margin-bottom: 60px;
+    font-size: 13px;
+}
+.wheel{
+    width: 20px;
+    height: 20px;
+    margin-left: 730px;
+    position: absolute;
+    margin-top: 60px;
+    padding-bottom: 20px;
+}
+.footxt{
+    margin-left: 760px;
+    margin-top: 30px;
+    position: absolute;
+    margin-top: 60px;
+    padding-bottom: 10px;
+}
+.footer2{
+    position: relative;
+}
